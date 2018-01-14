@@ -1,0 +1,8 @@
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\bin\Debug\MostraData.exe.config
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\bin\Debug\MostraData.exe
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\bin\Debug\MostraData.pdb
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\obj\Debug\MostraData.csprojResolveAssemblyReference.cache
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\obj\Debug\MostraData.MainForm.resources
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\obj\Debug\MostraData.csproj.GenerateResource.Cache
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\obj\Debug\MostraData.exe
+C:\Users\Ol\Documents\SharpDevelop Projects\MostraData\MostraData\obj\Debug\MostraData.pdb
