@@ -32,7 +32,7 @@ namespace MostraData
 		void Button1Click(object sender, EventArgs e)
 		{
 DateTime a = DateTime.Now;
-string data = DateTime.Now.ToString("dd:mm:yyyy");
+string data = DateTime.Now.ToString("dd:MM:yyyy");
 string hora = DateTime.Now.ToString("HH:mm:ss");
 DateTime dt = Convert.ToDateTime(a); 
 textBox1.Text = ""+hora ;
